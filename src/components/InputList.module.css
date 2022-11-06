@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 3.5rem;
+    background: #e8e8df;
+}
+
+.input {
+    margin-right: 10px;
+    width: 70%;
+    height: 3rem;
+    font-size: 1.5rem;
+    outline: 3px solid #b5eb2d;
+    border: 1px solid #b5eb2d;
+}
+
+.button {
+    margin-bottom: 10rem;
+    width: 3.5rem;
+    height: 3.3rem;
+    background: #b5eb2d;
+    font-weight: bold;
+    border: none;
+}
+
